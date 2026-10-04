@@ -89,7 +89,7 @@ All visualizations are stored in the `outputs` folder.
 ## Project Structure
 
 ```text
-Task-02/
+PRODIGY_DS_02/
 ├── README.md
 ├── task_02.py
 │
